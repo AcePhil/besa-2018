@@ -866,8 +866,7 @@ Take a little rest, and then again.
 
 195
 00:25:40,440 --> 00:25:42,440
-<b>SPLIT
-CROATIA</b>
+<b>SPLIT CROATIA</b>
 
 196
 00:25:42,640 --> 00:25:45,500
@@ -1300,8 +1299,7 @@ You look like who you are, my daughter!
 
 292
 00:34:31,360 --> 00:34:35,000
-Now dad can't forbid me
-to study in America.
+Now dad can't forbid me to study in America.
 
 293
 00:34:35,200 --> 00:34:38,400
