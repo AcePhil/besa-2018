@@ -7,7 +7,7 @@ If you find any translation errors.
 
 Please tell me.
 
-You can download the Season one from here
+You can download the First Season with magnet
 
 magnet:?xt=urn:btih:32BD751B7461D61981B5AFD69858234BDB893678
 
