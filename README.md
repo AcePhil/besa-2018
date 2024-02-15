@@ -22,4 +22,4 @@ magnet:?xt=urn:btih:32BD751B7461D61981B5AFD69858234BDB893678
 ## Donate
 If you like this, you can buy me a cup of joe.
 
-![DOGE](https://raw.githubusercontent.com/AcePhil/besa-2018/main/img/doge.jpg)
+<img src="https://raw.githubusercontent.com/AcePhil/besa-2018/main/img/doge.jpg" width="210px">
